@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196698519458",
+    "project_id": "lakhan-hosiery",
+    "storage_bucket": "lakhan-hosiery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196698519458:android:e70d65a8f4a57c4312e4fb",
+        "android_client_info": {
+          "package_name": "com.techypanther.new10.new10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196698519458-7tn49a5uib274s09p45psbnesgtd70l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techypanther.new10.new10",
+            "certificate_hash": "59c14ac43826f1cca81b2a789029d6f8490552b0"
+          }
+        },
+        {
+          "client_id": "196698519458-3qrkf6d92t637vm7flnnn397ebl9vv04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasjRn-CNrd1EGl2EuT2o1H7PJIK1DWSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196698519458-3qrkf6d92t637vm7flnnn397ebl9vv04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
